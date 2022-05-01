@@ -1,0 +1,4 @@
+Key,Count,Size
+spring:session:sessions:*,2,1001.000 Bytes
+spring:session:expirations:*,1,105.000 Bytes
+spring:session:sessions:expires:*,2,2.000 Bytes
